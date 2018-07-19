@@ -126,8 +126,8 @@ export const mediaSettingsLabels = {
 }
 
 export const programsScreenLabels = {
-  videos: 'Video',
-  audio: 'Audio',
+  videos: 'Видео',
+  audio: 'Аудио',
   empty: 'В настоящее время в данной категории нет данных',
 }
 
