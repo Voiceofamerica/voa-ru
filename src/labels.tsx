@@ -131,6 +131,11 @@ export const programsScreenLabels = {
   empty: 'В настоящее время в данной категории нет данных',
 }
 
+export const psiphonLoadingLabels = {
+  bold: 'Please be patient.',
+  text: 'This may take a few minutes while we gather the best information for you.',
+}
+
 export const pullToRefreshLabels = {
   pull: 'Перезагрузить страницу',
   release: 'Перезагрузить страницу',
