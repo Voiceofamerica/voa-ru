@@ -44,7 +44,7 @@ export const circumventionDrawerLabels = {
   enabledContent: (
     <div>
       <p>
-      «Голос Америки»  использует технологию VPN для обхода блокировок.
+      «Голос Америки»  использует технологию прокси для обхода блокировок.
       </p>
       <p>
       Вы всегда сможете прочитать самые важные новости
@@ -61,7 +61,7 @@ export const circumventionDrawerLabels = {
   disabledContent: (
     <div>
       <p>
-      «Голос Америки»  использует технологию VPN для обхода блокировок.
+      «Голос Америки»  использует технологию прокси для обхода блокировок.
       </p>
       <p>
       Вы всегда сможете прочитать самые важные новости
@@ -189,7 +189,7 @@ export const settingsLabels = {
   feedbackSubject: encodeURIComponent('Комментарии и предложения'),
   feedbackBody: encodeURIComponent(''),
   shareMessage: '',
-  psiphon: 'Secure VPN',
+  psiphon: 'Secure прокси',
   psiphonOn: 'On',
   psiphonOff: 'Off',
   takeEffectOnRestart: 'You must restart the app for your changes to take effect.',
